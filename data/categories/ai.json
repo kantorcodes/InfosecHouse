@@ -728,6 +728,12 @@
               "repo": "toby-bridges/api-relay-audit"
             },
             {
+              "name": "HOL Guard",
+              "url": "https://hol.org/guard",
+              "description": "Checks supported AI coding-agent tool actions against local policies with allow, ask, and block decisions.",
+              "repo": "hashgraph-online/hol-guard"
+            },
+            {
               "name": "MCP Scanner",
               "url": "https://github.com/cisco-ai-defense/mcp-scanner",
               "description": "Cisco scanner that inspects MCP servers for threats.",
